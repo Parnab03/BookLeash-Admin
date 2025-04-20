@@ -1,0 +1,29 @@
+.body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: inline;
+    vertical-align: bottom;
+}
+
+.footerText {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    img {
+        width: 20px;
+        height: auto;
+        padding: 1px;
+    }
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #3b2a6f; */
+    height: 40px;
+}

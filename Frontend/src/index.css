@@ -1,0 +1,10 @@
+:root {
+    font-family: "Poppins", serif;
+    font-style: normal;
+    /* background-image: linear-gradient(180deg, #c8c8ff 0%, #fff 100%); */
+    background-image: url("/BACKGROUND.svg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
